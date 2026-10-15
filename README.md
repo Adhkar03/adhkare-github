@@ -1,2 +1,2 @@
 # adhkare-github
-first project nhsast
+new nhsast
